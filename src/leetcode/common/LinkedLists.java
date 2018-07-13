@@ -1,8 +1,8 @@
 package leetcode.common;
 
 /**
- * Á´±í¹¤¾ßÀà
- * @author Áõ×³·É
+ * é“¾è¡¨å·¥å…·ç±»
+ * @author åˆ˜å£®é£ž
  * https://github.com/zfman.
  * https://blog.csdn.net/lzhuangfei.
  */

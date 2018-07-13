@@ -7,6 +7,12 @@ package leetcode.common;
  * https://blog.csdn.net/lzhuangfei.
  */
 public class LinkedLists {
+
+	/**
+	 * 数组转化为链表
+	 * @param array
+	 * @return
+	 */
 	public static ListNode arrayToLinkedList(int[] array){
 		if(array==null) return null;
 		//head node 
@@ -24,7 +30,11 @@ public class LinkedLists {
 		
 		return root.next;
 	}
-	
+
+	/**
+	 * 打印链表
+	 * @param root
+	 */
 	public static void print(ListNode root) {
 		if(root==null) System.out.println("root is null");
 		else{

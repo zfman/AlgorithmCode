@@ -5,7 +5,6 @@ public class ListNode {
 	public ListNode next;
 	
 	public ListNode(int val) {
-		// TODO Auto-generated constructor stub
 		this.val=val;
 	}
 }

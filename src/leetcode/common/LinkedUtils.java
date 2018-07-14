@@ -6,7 +6,7 @@ package leetcode.common;
  * https://github.com/zfman.
  * https://blog.csdn.net/lzhuangfei.
  */
-public class LinkedLists {
+public class LinkedUtils {
 
 	/**
 	 * 数组转化为链表
@@ -47,5 +47,34 @@ public class LinkedLists {
 			}
 			System.out.println();
 		}
+	}
+
+	/**
+	 * 求链表长度
+	 * @param root
+	 * @return
+	 */
+	public static int length(ListNode root) {
+		if(root==null) return 0;
+		int n=0;
+		while(root!=null){
+			root=root.next;
+			n++;
+		}
+		return n;
+	}
+
+	/**
+	 * 返回指向链表尾部的指针
+	 * @param root
+	 * @return
+	 */
+	public static ListNode moveToTail(ListNode root) {
+		if(root==null) return null;
+		ListNode tail=root;
+		while(tail.next!=null){
+			tail=tail.next;
+		}
+		return tail;
 	}
 }

@@ -1,6 +1,6 @@
 package leetcode.all;
 
-import leetcode.common.LinkedLists;
+import leetcode.common.LinkedUtils;
 import leetcode.common.ListNode;
 
 /**
@@ -71,10 +71,10 @@ public class Solution2 {
 				4,3,2,4,3,2,4,3,2,4,
 				3,2,4,3,2,4,3,9,9,9,9 };
 
-		ListNode l1 = LinkedLists.arrayToLinkedList(list1);
-		ListNode l2 = LinkedLists.arrayToLinkedList(list2);
+		ListNode l1 = LinkedUtils.arrayToLinkedList(list1);
+		ListNode l2 = LinkedUtils.arrayToLinkedList(list2);
 
 		ListNode root = new Solution2().addTwoNumbers(l1, l2);
-		LinkedLists.print(root);
+		LinkedUtils.print(root);
 	}
 }

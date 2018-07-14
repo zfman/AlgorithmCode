@@ -1,6 +1,4 @@
-package leetcode.all;
-
-import java.util.Map;
+package leetcode.all.solution100;
 
 /**
  * 67. 二进制求和.

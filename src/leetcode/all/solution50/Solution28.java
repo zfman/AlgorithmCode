@@ -1,4 +1,4 @@
-package leetcode.all;
+package leetcode.all.solution50;
 
 /**
  * 28. 实现strStr().

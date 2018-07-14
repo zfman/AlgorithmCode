@@ -1,4 +1,4 @@
-package leetcode.all;
+package leetcode.all.solution50;
 
 import java.util.HashMap;
 import java.util.Map;

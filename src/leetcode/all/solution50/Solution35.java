@@ -1,4 +1,4 @@
-package leetcode.all;
+package leetcode.all.solution50;
 
 /**
  * 35. 搜索插入位置.

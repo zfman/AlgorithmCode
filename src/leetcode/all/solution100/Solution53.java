@@ -1,4 +1,4 @@
-package leetcode.all;
+package leetcode.all.solution100;
 
 /**
  * 53.最大子序和.

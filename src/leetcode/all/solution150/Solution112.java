@@ -1,4 +1,4 @@
-package leetcode.all;
+package leetcode.all.solution150;
 
 import leetcode.common.TreeNode;
 import leetcode.common.TreeUtils;

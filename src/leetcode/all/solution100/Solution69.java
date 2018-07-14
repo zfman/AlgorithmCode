@@ -1,4 +1,4 @@
-package leetcode.all;
+package leetcode.all.solution100;
 
 /**
  * 69. x 的平方根

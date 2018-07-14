@@ -1,19 +1,43 @@
 # AlgorithmCode
 
-¸Ã²Ö¿âÊÕ¼¯Ò»Ğ©Ëã·¨µÄ´ğ°¸£¬Ä¿±êÊÇÕûÀíÒ»Ì×ÏµÍ³µÄËã·¨²Î¿¼´ğ°¸ÒÔ¹©ÆäËûÑ§Ï°Õß²Î¿¼;
+è¯¥ä»“åº“æ”¶é›†ä¸€äº›ç®—æ³•çš„ç­”æ¡ˆï¼Œç›®æ ‡æ˜¯æ•´ç†ä¸€å¥—ç³»ç»Ÿçš„ç®—æ³•å‚è€ƒç­”æ¡ˆä»¥ä¾›å…¶ä»–å­¦ä¹ è€…å‚è€ƒ;
 
 - [LeetCode](https://leetcode-cn.com/explore/)
-- [Å£¿ÍÍø-½£Ö¸offer](https://www.nowcoder.com/ta/coding-interviews?page=1)
+- [ç‰›å®¢ç½‘-å‰‘æŒ‡offer](https://www.nowcoder.com/ta/coding-interviews?page=1)
 
-ÎÒÒ²ÔÚÂıÂıµÄÑ§Ëã·¨²¢ÇÒÔÚ¼á³ÖË¢Ìâ£¬ÎÒ»á²»¶¨ÆÚµÄÉÏ´«ĞÂµÄÌâÄ¿£¬Ï£Íû´ó¼Ò¹²Í¬Å¬Á¦£¡
+æˆ‘ä¹Ÿåœ¨æ…¢æ…¢çš„å­¦ç®—æ³•å¹¶ä¸”åœ¨åšæŒåˆ·é¢˜ï¼Œæˆ‘ä¼šä¸å®šæœŸçš„ä¸Šä¼ æ–°çš„é¢˜ç›®ï¼Œå¸Œæœ›å¤§å®¶å…±åŒåŠªåŠ›ï¼
 
 ### LeetCode
 
-**primary**
+**1-50**
 
-- dynamic£º¶¯Ì¬¹æ»®
-	- ÅÀÂ¥Ìİ
-	- ÂòÂô¹ÉÆ±µÄ×î¼ÑÊ±»ú
-	- ×î´ó×ÓĞòºÍ
-	- ´ò¼Ò½ÙÉá
+- [2.ä¸¤æ•°ç›¸åŠ ](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution2.java)
+- [3.æ— é‡å¤å­—ç¬¦çš„æœ€é•¿å­ä¸²](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution3.java)
+- [7.åè½¬æ•´æ•°](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution7.java)
+- [9.å›æ–‡æ•°](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution9.java)
+- [13.ç½—é©¬æ•°å­—è½¬æ•´æ•°](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution13.java)
+- [27.ç§»é™¤å…ƒç´ ](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution27.java)
+- [28.å®ç°strStr()](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution28.java)
+- [35.æœç´¢æ’å…¥ä½ç½®](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution35.java)
+- [38.æŠ¥æ•°](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution38.java)
+
+**51-100**
+
+- [53.æœ€å¤§å­åºå’Œ](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution53.java)
+- [58.æœ€åä¸€ä¸ªå•è¯çš„é•¿åº¦](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution58.java)
+- [66.åŠ ä¸€](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution66.java)
+- [67.äºŒè¿›åˆ¶æ±‚å’Œ](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution67.java)
+- [69.xçš„å¹³æ–¹æ ¹](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution69.java)
+- [83.åˆ é™¤æ’åºé“¾è¡¨ä¸­çš„é‡å¤å…ƒç´ ](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution83.java)
+- [100.ç›¸åŒçš„æ ‘](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution100.java)
+
+**101-150**
+
+- [112.è·¯å¾„æ€»å’Œ](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution150/Solution112.java)
+- [125.éªŒè¯å›æ–‡ä¸²](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution150/Solution125.java)
+
+**151-200**
+
+- [160.ç›¸äº¤é“¾è¡¨](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution200/Solution160.java)
+- [188.æ¨è¾‰ä¸‰è§’](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution200/Solution188.java)
 

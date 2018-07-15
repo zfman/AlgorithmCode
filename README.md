@@ -2,10 +2,20 @@
 
 该仓库收集一些算法的答案，目标是整理一套系统的算法参考答案以供其他学习者参考;
 
-- [LeetCode](https://leetcode-cn.com/explore/)
+- [LeetCode](https://leetcode-cn.com/problemset/all/)
 - [牛客网-剑指offer](https://www.nowcoder.com/ta/coding-interviews?page=1)
 
 我也在慢慢的学算法并且在坚持刷题，我会不定期的上传新的题目，希望大家共同努力！
+
+### 排序算法
+
+- [选择排序](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/Selection.java)
+- [插入排序](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/Insertion.java)
+- [冒泡排序](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/Buddle.java)
+- [冒泡排序改进版](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/Buddle2.java)
+- [希尔排序](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/Shell.java)
+- [堆排序]()
+- [快速排序]()
 
 ### LeetCode
 
@@ -40,4 +50,3 @@
 
 - [160.相交链表](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution200/Solution160.java)
 - [188.杨辉三角](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution200/Solution188.java)
-

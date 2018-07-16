@@ -13,4 +13,12 @@ public class ArrayUtils {
         }
         System.out.println();
     }
+
+    public static <T> void printArray(T[] a,int start){
+        if(a==null) return;
+        for(int i=start;i<a.length;i++){
+            System.out.print(a[i]+" ");
+        }
+        System.out.println();
+    }
 }

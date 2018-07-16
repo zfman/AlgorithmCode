@@ -27,8 +27,12 @@
 - [冒泡排序](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/Buddle.java)
 - [冒泡排序改进版](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/Buddle2.java)
 - [希尔排序](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/Shell.java)
-- [堆排序]()
-- [快速排序]()
+- [自顶向下归并排序](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/UpToDownMergeSort.java)
+- [自底向上归并排序](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/DownToUpMergeSort.java)
+- [快速排序](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/QuickSort.java)
+- [三向切分快速排序](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/ThreeWayQuickSort.java)
+- [堆的基本操作](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/Heap.java)
+- [堆排序](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/HeapSort.java)
 
 ### LeetCode
 
@@ -62,4 +66,5 @@
 **151-200**
 
 - [160.相交链表](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution200/Solution160.java)
+- [167.两数之和 II - 输入有序数组](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution200/Solution167.java)
 - [188.杨辉三角](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution200/Solution188.java)

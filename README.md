@@ -1,11 +1,19 @@
 # AlgorithmCode
 
-该仓库收集一些算法的答案，目标是整理一套系统的算法参考答案以供其他学习者参考;
+该仓库收集一些算法的答案，目标是整理一套系统的算法参考答案以供其他学习者参考
+
+我也在慢慢的学算法并且在坚持刷题，我会不定期的上传新的题目，希望大家共同努力！
+
+在线编程网站：
 
 - [LeetCode](https://leetcode-cn.com/problemset/all/)
 - [牛客网-剑指offer](https://www.nowcoder.com/ta/coding-interviews?page=1)
 
-我也在慢慢的学算法并且在坚持刷题，我会不定期的上传新的题目，希望大家共同努力！
+### 目录
+
+- [排序算法](#排序算法)
+- [LeetCode](#LeetCode)
+- [剑指offer](#剑指offer)
 
 ### 排序算法
 
@@ -39,7 +47,6 @@
 **1-50**
 
 - [2.两数相加](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution2.java)
-- [3.无重复字符的最长子串](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution3.java)
 - [7.反转整数](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution7.java)
 - [9.回文数](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution9.java)
 - [13.罗马数字转整数](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution13.java)
@@ -68,3 +75,15 @@
 - [160.相交链表](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution200/Solution160.java)
 - [167.两数之和 II - 输入有序数组](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution200/Solution167.java)
 - [188.杨辉三角](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution200/Solution188.java)
+
+### 剑指offer
+
+- [两个链表的第一个公共结点](https://github.com/zfman/AlgorithmCode/blob/master/src/offer/FindFirstCommonNodeSolution.java)
+- [链表中倒数第k个结点](https://github.com/zfman/AlgorithmCode/blob/master/src/offer/FindKthToTailSolution.java)
+- [树的子结构](https://github.com/zfman/AlgorithmCode/blob/master/src/offer/HasSubtreeSolution.java)
+- [合并两个排序的链表](https://github.com/zfman/AlgorithmCode/blob/master/src/offer/MergeSolution.java)
+- [二叉树的镜像](https://github.com/zfman/AlgorithmCode/blob/master/src/offer/MirrorSolution.java)
+- [矩形覆盖](https://github.com/zfman/AlgorithmCode/blob/master/src/offer/RectCoverSolution.java)
+- [调整数组顺序使奇数位于偶数前面](https://github.com/zfman/AlgorithmCode/blob/master/src/offer/ReOrderArraySolution.java)
+- [反转链表](https://github.com/zfman/AlgorithmCode/blob/master/src/offer/ReverseListSolution.java)
+

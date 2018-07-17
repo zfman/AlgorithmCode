@@ -66,7 +66,7 @@ public class TreeUtils {
      */
     public static void travser(TreeNode root){
         if(root!=null){
-            System.out.print(root.val);
+            System.out.print(root.val+" ");
             travser(root.left);
             travser(root.right);
         }
@@ -79,7 +79,7 @@ public class TreeUtils {
     public static void travser2(TreeNode root){
         if(root!=null){
             travser2(root.left);
-            System.out.print(root.val);
+            System.out.print(root.val+" ");
             travser2(root.right);
         }
     }
@@ -92,7 +92,7 @@ public class TreeUtils {
         if(root!=null){
             travser3(root.left);
             travser3(root.right);
-            System.out.print(root.val);
+            System.out.print(root.val+" ");
         }
     }
 }

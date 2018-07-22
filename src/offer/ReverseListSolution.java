@@ -26,6 +26,7 @@ public class ReverseListSolution {
             q=p;
             p=pr;
         }
+        
         head=q;
         return head;
     }

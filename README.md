@@ -59,6 +59,9 @@
 
 - [53.最大子序和](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution53.java)
 - [58.最后一个单词的长度](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution58.java)
+- [62.不同路径](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution62.java)
+- [63.不同路径 II](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution63.java)
+- [64.最小路径和](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution64.java)
 - [66.加一](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution66.java)
 - [67.二进制求和](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution67.java)
 - [69.x的平方根](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution69.java)

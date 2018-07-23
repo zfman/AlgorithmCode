@@ -52,6 +52,7 @@
 - [13.罗马数字转整数](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution13.java)
 - [27.移除元素](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution27.java)
 - [28.实现strStr()](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution28.java)
+- [32.最长有效括号](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution32.java)
 - [35.搜索插入位置](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution35.java)
 - [38.报数](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution38.java)
 

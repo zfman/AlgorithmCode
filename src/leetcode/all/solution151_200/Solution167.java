@@ -1,4 +1,4 @@
-package leetcode.all.solution200;
+package leetcode.all.solution151_200;
 
 /**
  * 167. 两数之和 II - 输入有序数组

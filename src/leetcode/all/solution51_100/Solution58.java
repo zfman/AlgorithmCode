@@ -1,4 +1,4 @@
-package leetcode.all.solution100;
+package leetcode.all.solution51_100;
 
 /**
  * 58. 最后一个单词的长度.

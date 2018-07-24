@@ -46,39 +46,39 @@
 
 **1-50**
 
-- [2.两数相加](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution2.java)
-- [7.反转整数](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution7.java)
-- [9.回文数](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution9.java)
-- [13.罗马数字转整数](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution13.java)
-- [27.移除元素](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution27.java)
-- [28.实现strStr()](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution28.java)
-- [32.最长有效括号](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution32.java)
-- [35.搜索插入位置](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution35.java)
-- [38.报数](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution50/Solution38.java)
+- [2.两数相加](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution1_50/Solution2.java)
+- [7.反转整数](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution1_50/Solution7.java)
+- [9.回文数](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution1_50/Solution9.java)
+- [13.罗马数字转整数](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution1_50/Solution13.java)
+- [27.移除元素](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution1_50/Solution27.java)
+- [28.实现strStr()](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution1_50/Solution28.java)
+- [32.最长有效括号](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution1_50/Solution32.java)
+- [35.搜索插入位置](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution1_50/Solution35.java)
+- [38.报数](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution1_50/Solution38.java)
 
 **51-100**
 
-- [53.最大子序和](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution53.java)
-- [58.最后一个单词的长度](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution58.java)
-- [62.不同路径](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution62.java)
-- [63.不同路径 II](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution63.java)
-- [64.最小路径和](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution64.java)
-- [66.加一](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution66.java)
-- [67.二进制求和](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution67.java)
-- [69.x的平方根](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution69.java)
-- [83.删除排序链表中的重复元素](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution83.java)
-- [100.相同的树](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution100/Solution100.java)
+- [53.最大子序和](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution51_100/Solution53.java)
+- [58.最后一个单词的长度](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution51_100/Solution58.java)
+- [62.不同路径](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution51_100/Solution62.java)
+- [63.不同路径 II](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution51_100/Solution63.java)
+- [64.最小路径和](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution51_100/Solution64.java)
+- [66.加一](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution51_100/Solution66.java)
+- [67.二进制求和](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution51_100/Solution67.java)
+- [69.x的平方根](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution51_100/Solution69.java)
+- [83.删除排序链表中的重复元素](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution51_100/Solution83.java)
+- [100.相同的树](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution51_100/solution51_100.java)
 
 **101-150**
 
-- [112.路径总和](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution150/Solution112.java)
-- [125.验证回文串](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution150/Solution125.java)
+- [112.路径总和](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution101_150/Solution112.java)
+- [125.验证回文串](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution101_150/Solution125.java)
 
 **151-200**
 
-- [160.相交链表](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution200/Solution160.java)
-- [167.两数之和 II - 输入有序数组](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution200/Solution167.java)
-- [188.杨辉三角](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution200/Solution188.java)
+- [160.相交链表](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution151_200/Solution160.java)
+- [167.两数之和 II - 输入有序数组](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution151_200/Solution167.java)
+- [188.杨辉三角](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution151_200/Solution188.java)
 
 ### 剑指offer
 

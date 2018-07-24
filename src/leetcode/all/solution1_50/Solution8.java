@@ -1,4 +1,4 @@
-package leetcode.all.solution50;
+package leetcode.all.solution1_50;
 
 /**
  * 未完成

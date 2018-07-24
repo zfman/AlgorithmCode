@@ -1,4 +1,4 @@
-package leetcode.all.solution150;
+package leetcode.all.solution101_150;
 
 /**
  * 125. 验证回文串

@@ -1,4 +1,4 @@
-package leetcode.all.solution50;
+package leetcode.all.solution1_50;
 
 /**
  * 无重复字符的最长子串.

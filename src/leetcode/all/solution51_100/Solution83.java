@@ -1,4 +1,4 @@
-package leetcode.all.solution100;
+package leetcode.all.solution51_100;
 
 import leetcode.common.LinkedUtils;
 import leetcode.common.ListNode;

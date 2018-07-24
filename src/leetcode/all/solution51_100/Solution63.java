@@ -1,4 +1,4 @@
-package leetcode.all.solution100;
+package leetcode.all.solution51_100;
 
 /**
  * 63. 不同路径 II

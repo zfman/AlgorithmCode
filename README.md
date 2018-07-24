@@ -80,6 +80,20 @@
 - [167.两数之和 II - 输入有序数组](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution151_200/Solution167.java)
 - [188.杨辉三角](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution151_200/Solution188.java)
 
+**301-350**
+
+- [303.区域和检索 - 数组不可变](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution301_350/Solution303.java)
+- [304.二维区域和检索 - 矩阵不可变](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution301_350/Solution304.java)
+
+**431-500**
+
+- [442.数组中重复的数据](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution431_500/Solution442.java)
+- [448.找到所有数组中消失的数字](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution431_500/Solution448.java)
+
+**731-800**
+
+- [746.使用最小花费爬楼梯](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution731_800/Solution746.java)
+
 ### 剑指offer
 
 - [两个链表的第一个公共结点](https://github.com/zfman/AlgorithmCode/blob/master/src/offer/FindFirstCommonNodeSolution.java)

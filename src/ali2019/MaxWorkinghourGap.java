@@ -1,10 +1,5 @@
 package ali2019;
 
-/**
- * @author 刘壮飞
- * https://github.com/zfman.
- * https://blog.csdn.net/lzhuangfei.
- */
 import java.util.*;
 
 /**
@@ -15,6 +10,10 @@ import java.util.*;
  *
  * 给定一个数组，如果数组只有一个元素，返回0
  * 对数组排序，然后计算相邻的差的最大值
+ *
+ * @author 刘壮飞
+ * https://github.com/zfman.
+ * https://blog.csdn.net/lzhuangfei.
  */
 public class MaxWorkinghourGap {
 

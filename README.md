@@ -14,6 +14,7 @@
 - [排序算法](#排序算法)
 - [LeetCode](#LeetCode)
 - [剑指offer](#剑指offer)
+- [笔试真题](#笔试真题)
 
 ### 排序算法
 
@@ -30,78 +31,81 @@
 
 快速排序是最快的通用排序算法，它的内循环的指令很少，而且它还能利用缓存，因为它总是顺序地访问数据。它的运行时间近似为 \~cNlogN，这里的 c 比其他线性对数级别的排序算法都要小。使用三向切分快速排序，实际应用中可能出现的某些分布的输入能够达到线性级别，而其它排序算法仍然需要线性对数时间。
 
-- [选择排序](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/Selection.java)
-- [插入排序](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/Insertion.java)
-- [冒泡排序](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/Buddle.java)
-- [冒泡排序改进版](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/Buddle2.java)
-- [希尔排序](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/Shell.java)
-- [自顶向下归并排序](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/UpToDownMergeSort.java)
-- [自底向上归并排序](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/DownToUpMergeSort.java)
-- [快速排序](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/QuickSort.java)
-- [三向切分快速排序](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/ThreeWayQuickSort.java)
-- [堆的基本操作](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/Heap.java)
-- [堆排序](https://github.com/zfman/AlgorithmCode/blob/master/src/sort/HeapSort.java)
+- [选择排序](src/sort/Selection.java)
+- [插入排序](src/sort/Insertion.java)
+- [冒泡排序](src/sort/Buddle.java)
+- [冒泡排序改进版](src/sort/Buddle2.java)
+- [希尔排序](src/sort/Shell.java)
+- [自顶向下归并排序](src/sort/UpToDownMergeSort.java)
+- [自底向上归并排序](src/sort/DownToUpMergeSort.java)
+- [快速排序](src/sort/QuickSort.java)
+- [三向切分快速排序](src/sort/ThreeWayQuickSort.java)
+- [堆的基本操作](src/sort/Heap.java)
+- [堆排序](src/sort/HeapSort.java)
 
 ### LeetCode
 
 **1-50**
 
-- [2.两数相加](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution1_50/Solution2.java)
-- [7.反转整数](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution1_50/Solution7.java)
-- [9.回文数](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution1_50/Solution9.java)
-- [13.罗马数字转整数](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution1_50/Solution13.java)
-- [27.移除元素](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution1_50/Solution27.java)
-- [28.实现strStr()](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution1_50/Solution28.java)
-- [32.最长有效括号](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution1_50/Solution32.java)
-- [35.搜索插入位置](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution1_50/Solution35.java)
-- [38.报数](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution1_50/Solution38.java)
+- [2.两数相加](src/leetcode/all/solution1_50/Solution2.java)
+- [7.反转整数](src/leetcode/all/solution1_50/Solution7.java)
+- [9.回文数](src/leetcode/all/solution1_50/Solution9.java)
+- [13.罗马数字转整数](src/leetcode/all/solution1_50/Solution13.java)
+- [27.移除元素](src/leetcode/all/solution1_50/Solution27.java)
+- [28.实现strStr()](src/leetcode/all/solution1_50/Solution28.java)
+- [32.最长有效括号](src/leetcode/all/solution1_50/Solution32.java)
+- [35.搜索插入位置](src/leetcode/all/solution1_50/Solution35.java)
+- [38.报数](src/leetcode/all/solution1_50/Solution38.java)
 
 **51-100**
 
-- [53.最大子序和](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution51_100/Solution53.java)
-- [58.最后一个单词的长度](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution51_100/Solution58.java)
-- [62.不同路径](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution51_100/Solution62.java)
-- [63.不同路径 II](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution51_100/Solution63.java)
-- [64.最小路径和](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution51_100/Solution64.java)
-- [66.加一](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution51_100/Solution66.java)
-- [67.二进制求和](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution51_100/Solution67.java)
-- [69.x的平方根](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution51_100/Solution69.java)
-- [83.删除排序链表中的重复元素](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution51_100/Solution83.java)
-- [100.相同的树](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution51_100/solution51_100.java)
+- [53.最大子序和](src/leetcode/all/solution51_100/Solution53.java)
+- [58.最后一个单词的长度](src/leetcode/all/solution51_100/Solution58.java)
+- [62.不同路径](src/leetcode/all/solution51_100/Solution62.java)
+- [63.不同路径 II](src/leetcode/all/solution51_100/Solution63.java)
+- [64.最小路径和](src/leetcode/all/solution51_100/Solution64.java)
+- [66.加一](src/leetcode/all/solution51_100/Solution66.java)
+- [67.二进制求和](src/leetcode/all/solution51_100/Solution67.java)
+- [69.x的平方根](src/leetcode/all/solution51_100/Solution69.java)
+- [83.删除排序链表中的重复元素](src/leetcode/all/solution51_100/Solution83.java)
+- [100.相同的树](src/leetcode/all/solution51_100/solution51_100.java)
 
 **101-150**
 
-- [112.路径总和](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution101_150/Solution112.java)
-- [125.验证回文串](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution101_150/Solution125.java)
+- [112.路径总和](src/leetcode/all/solution101_150/Solution112.java)
+- [125.验证回文串](src/leetcode/all/solution101_150/Solution125.java)
 
 **151-200**
 
-- [160.相交链表](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution151_200/Solution160.java)
-- [167.两数之和 II - 输入有序数组](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution151_200/Solution167.java)
-- [188.杨辉三角](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution151_200/Solution188.java)
+- [160.相交链表](src/leetcode/all/solution151_200/Solution160.java)
+- [167.两数之和 II - 输入有序数组](src/leetcode/all/solution151_200/Solution167.java)
+- [188.杨辉三角](src/leetcode/all/solution151_200/Solution188.java)
 
 **301-350**
 
-- [303.区域和检索 - 数组不可变](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution301_350/Solution303.java)
-- [304.二维区域和检索 - 矩阵不可变](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution301_350/Solution304.java)
+- [303.区域和检索 - 数组不可变](src/leetcode/all/solution301_350/Solution303.java)
+- [304.二维区域和检索 - 矩阵不可变](src/leetcode/all/solution301_350/Solution304.java)
 
 **431-500**
 
-- [442.数组中重复的数据](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution431_500/Solution442.java)
-- [448.找到所有数组中消失的数字](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution431_500/Solution448.java)
+- [442.数组中重复的数据](src/leetcode/all/solution431_500/Solution442.java)
+- [448.找到所有数组中消失的数字](src/leetcode/all/solution431_500/Solution448.java)
 
 **731-800**
 
-- [746.使用最小花费爬楼梯](https://github.com/zfman/AlgorithmCode/blob/master/src/leetcode/all/solution731_800/Solution746.java)
+- [746.使用最小花费爬楼梯](src/leetcode/all/solution731_800/Solution746.java)
 
 ### 剑指offer
 
-- [两个链表的第一个公共结点](https://github.com/zfman/AlgorithmCode/blob/master/src/offer/FindFirstCommonNodeSolution.java)
-- [链表中倒数第k个结点](https://github.com/zfman/AlgorithmCode/blob/master/src/offer/FindKthToTailSolution.java)
-- [树的子结构](https://github.com/zfman/AlgorithmCode/blob/master/src/offer/HasSubtreeSolution.java)
-- [合并两个排序的链表](https://github.com/zfman/AlgorithmCode/blob/master/src/offer/MergeSolution.java)
-- [二叉树的镜像](https://github.com/zfman/AlgorithmCode/blob/master/src/offer/MirrorSolution.java)
-- [矩形覆盖](https://github.com/zfman/AlgorithmCode/blob/master/src/offer/RectCoverSolution.java)
-- [调整数组顺序使奇数位于偶数前面](https://github.com/zfman/AlgorithmCode/blob/master/src/offer/ReOrderArraySolution.java)
-- [反转链表](https://github.com/zfman/AlgorithmCode/blob/master/src/offer/ReverseListSolution.java)
+- [两个链表的第一个公共结点](src/offer/FindFirstCommonNodeSolution.java)
+- [链表中倒数第k个结点](src/offer/FindKthToTailSolution.java)
+- [树的子结构](src/offer/HasSubtreeSolution.java)
+- [合并两个排序的链表](src/offer/MergeSolution.java)
+- [二叉树的镜像](src/offer/MirrorSolution.java)
+- [矩形覆盖](src/offer/RectCoverSolution.java)
+- [调整数组顺序使奇数位于偶数前面](src/offer/ReOrderArraySolution.java)
+- [反转链表](src/offer/ReverseListSolution.java)
 
+### 笔试真题
+
+- [阿里2019秋招编程测试-客户端开发岗位](src/ali2019/MaxWorkinghourGap.java)

@@ -86,6 +86,10 @@
 - [303.区域和检索 - 数组不可变](src/leetcode/all/solution301_350/Solution303.java)
 - [304.二维区域和检索 - 矩阵不可变](src/leetcode/all/solution301_350/Solution304.java)
 
+**351-400**
+
+- [354.俄罗斯套娃信封问题](src/leetcode/all/solution351_400/Solution354.java)
+
 **431-500**
 
 - [442.数组中重复的数据](src/leetcode/all/solution431_500/Solution442.java)
@@ -109,3 +113,4 @@
 ### 笔试真题
 
 - [阿里2019秋招编程测试-客户端开发岗位](src/ali2019/MaxWorkinghourGap.java)
+- [腾讯2019笔试模拟题-客户端开发岗位](src/tencent/Main1.java)

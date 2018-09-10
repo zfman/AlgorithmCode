@@ -95,6 +95,11 @@
 - [442.数组中重复的数据](src/leetcode/all/solution431_500/Solution442.java)
 - [448.找到所有数组中消失的数字](src/leetcode/all/solution431_500/Solution448.java)
 
+**631_700**
+
+- [687.最长同值路径(递归)](src/leetcode/all/solution631_700/Solution687.java)
+- [698.划分为k个相等的子集（递归）](src/leetcode/all/solution631_700/Solution698.java)
+
 **731-800**
 
 - [746.使用最小花费爬楼梯](src/leetcode/all/solution731_800/Solution746.java)
@@ -112,5 +117,9 @@
 
 ### 笔试真题
 
-- [阿里2019秋招编程测试-客户端开发岗位](src/ali2019/MaxWorkinghourGap.java)
-- [腾讯2019笔试模拟题-客户端开发岗位](src/tencent/Main1.java)
+- [阿里2019秋招模拟题-内存回收](src/ali2019/Main.java)
+- [阿里2019秋招在线测评-工时预估](src/ali2019/MaxWorkinghourGap.java)
+- [阿里2019秋招笔试题1-火柴棍](src/ali2019/Main2.java)
+- [阿里2019秋招笔试题2-送快递](src/ali2019/Main3.java)
+- [腾讯2019笔试模拟题-纸牌游戏](src/tencent/Main1.java)
+- [招商银行2018笔试题-字符串匹配](src/other/ZhaoShang2018_1.java)

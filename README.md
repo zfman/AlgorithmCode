@@ -14,6 +14,7 @@
 - [排序算法](#排序算法)
 - [LeetCode](#LeetCode)
 - [剑指offer](#剑指offer)
+- [码赛](#码赛)
 - [笔试真题](#笔试真题)
 
 ### 排序算法
@@ -72,6 +73,7 @@
 
 **101-150**
 
+- [110.二叉树的最小深度](src/leetcode/all/solution101_150/Solution111.java)
 - [112.路径总和](src/leetcode/all/solution101_150/Solution112.java)
 - [125.验证回文串](src/leetcode/all/solution101_150/Solution125.java)
 
@@ -81,6 +83,10 @@
 - [167.两数之和 II - 输入有序数组](src/leetcode/all/solution151_200/Solution167.java)
 - [188.杨辉三角](src/leetcode/all/solution151_200/Solution188.java)
 
+**201-230**
+
+- [226.翻转二叉树](src/leetcode/all/solution201_230/Solution226.java)
+
 **301-350**
 
 - [303.区域和检索 - 数组不可变](src/leetcode/all/solution301_350/Solution303.java)
@@ -88,12 +94,28 @@
 
 **351-400**
 
+- [383.赎金信](src/leetcode/all/solution351_400/Solution383.java)
 - [354.俄罗斯套娃信封问题](src/leetcode/all/solution351_400/Solution354.java)
+
+**401-430**
+
+- [404.左叶子之和](src/leetcode/all/solution401_430/Solution404.java)
 
 **431-500**
 
+- [437.路径总和 III](src/leetcode/all/solution431_500/Solution437.java)
 - [442.数组中重复的数据](src/leetcode/all/solution431_500/Solution442.java)
 - [448.找到所有数组中消失的数字](src/leetcode/all/solution431_500/Solution448.java)
+
+**501-530**
+
+- [543.二叉树的直径](src/leetcode/all/solution501_530/Solution543.java)
+- [563.二叉树的坡度](src/leetcode/all/solution501_530/Solution563.java)
+- [572.另一个树的子树](src/leetcode/all/solution501_530/Solution572.java)
+
+**601-630**
+
+- [606.根据二叉树创建字符串](src/leetcode/all/solution601_630/Solution606.java)
 
 **631_700**
 
@@ -103,6 +125,7 @@
 **731-800**
 
 - [746.使用最小花费爬楼梯](src/leetcode/all/solution731_800/Solution746.java)
+- [779.第K个语法符号](src/leetcode/all/solution731_800/Solution779.java)
 
 ### 剑指offer
 
@@ -115,6 +138,10 @@
 - [调整数组顺序使奇数位于偶数前面](src/offer/ReOrderArraySolution.java)
 - [反转链表](src/offer/ReverseListSolution.java)
 
+### 码赛
+
+- [股神](src/masai/GuShen.java)
+
 ### 笔试真题
 
 - [阿里2019秋招模拟题-内存回收](src/ali2019/Main.java)
@@ -122,4 +149,9 @@
 - [阿里2019秋招笔试题1-火柴棍](src/ali2019/Main2.java)
 - [阿里2019秋招笔试题2-送快递](src/ali2019/Main3.java)
 - [腾讯2019笔试模拟题-纸牌游戏](src/tencent/Main1.java)
-- [招商银行2018笔试题-字符串匹配](src/other/ZhaoShang2018_1.java)
+- [迅雷2019笔试模拟-求数列的和](src/other/XunleiTest1.java)
+- [迅雷2019笔试模拟-水仙花数](src/other/XunleiTest2.java)
+- [迅雷2019笔试模拟-数组中消失的数字](src/other/Xunlei1.java)
+- [迅雷2019笔试模拟-最长无重复字符子串长度](src/other/Xunlei2.java)
+- [京东2017秋招真题-集合](src/jd/Solution1.java)
+

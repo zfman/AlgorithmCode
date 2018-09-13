@@ -1,5 +1,7 @@
 package leetcode.common;
 
+import java.util.Stack;
+
 /**
  * @author 刘壮飞
  * https://github.com/zfman.

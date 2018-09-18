@@ -2,7 +2,6 @@ package other;
 
 /**
  * 数组中消失的数字
- * 本题答案不太正确，但我感觉是对的
  *
  * @author 刘壮飞
  * https://github.com/zfman.
@@ -17,32 +16,12 @@ import java.util.regex.*;
 
 public class Xunlei1 {
 
-
-    /*请完成下面这个函数，实现题目要求的功能
-    当然，你也可以不按照下面这个模板来作答，完全按照自己的想法来 ^-^
-    ******************************开始写代码******************************/
-    static int[] findDisappearedNum(int[] nums) {
-        List<Integer> list=new ArrayList<>();
-        for (int i = 0; i < nums.length; i++) {
-            int q = Math.abs(nums[i]) - 1;
-            if (nums[q] > 0) nums[q] = -nums[q];
-        }
-        for (int i = 0; i < nums.length; i++) {
-            if(nums[i]>0) list.add(i+1);
-        }
-        int[] result=new int[list.size()];
-        for(int i=0;i<list.size();i++){
-            result[i]=list.get(i);
-        }
-        return result;
-    }
-
     /**
-     * O(n^2)的算法，负责度比较高
+     * O(n)的算法
      * @param nums
      * @return
      */
-    static int[] findDisappearedNum2(int[] nums) {
+    static int[] findDisappearedNum(int[] nums) {
         int[] n=new int[nums.length+1];
         for(int i=0;i<nums.length;i++){
             n[nums[i]]++;

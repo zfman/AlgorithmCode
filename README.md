@@ -160,7 +160,11 @@
 - [迅雷2019笔试模拟-数组中消失的数字](src/other/Xunlei1.java)
 - [迅雷2019笔试模拟-最长无重复字符子串长度](src/other/Xunlei2.java)
 - [京东2017秋招真题-集合](src/jd/Solution1.java)
+- [百词斩2019笔试题-时间相关](src/other/Baicizhan1.java)
+- [百词斩2019笔试题-连续数字合并](src/other/Baicizhan2.java)
 - [神策数据2019笔试题-日志输出](src/other/ShenCe.java)
+- [神策数据2019笔试题-时间累加](src/other/ShenCe2.java)
+- [神策数据2019笔试题-陀峰命名改为下划线命名](src/other/ShenCe1.java)
 
 ### 其他练习
 

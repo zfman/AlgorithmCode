@@ -67,8 +67,8 @@ public class QuickSort<T extends Comparable<T>> extends Sort<T> {
         int i=l,j=h+1;
         T v=nums[l];
         while(true){
-            while(i!=h&&less(nums[++i],v));
             while(j!=l&&less(v,nums[--j]));
+            while(i!=h&&less(nums[++i],v));
             if(i>=j) break;
             swap(nums,i,j);
         }

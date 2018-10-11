@@ -53,6 +53,9 @@
 - [7.反转整数](src/leetcode/all/solution1_100/Solution7.java)
 - [9.回文数](src/leetcode/all/solution1_100/Solution9.java)
 - [13.罗马数字转整数](src/leetcode/all/solution1_100/Solution13.java)
+- [15.三数之和](src/leetcode/all/solution1_100/Solution15.java)
+- [16.最接近的三数之和](src/leetcode/all/solution1_100/Solution16.java)
+- [18.四数之和](src/leetcode/all/solution1_100/Solution18.java)
 - [27.移除元素](src/leetcode/all/solution1_100/Solution27.java)
 - [28.实现strStr()](src/leetcode/all/solution1_100/Solution28.java)
 - [32.最长有效括号](src/leetcode/all/solution1_100/Solution32.java)
@@ -87,6 +90,7 @@
 
 - [303.区域和检索 - 数组不可变](src/leetcode/all/solution301_400/Solution303.java)
 - [304.二维区域和检索 - 矩阵不可变](src/leetcode/all/solution301_400/Solution304.java)
+- [349.两个数组的交集](src/leetcode/all/solution301_400/Solution349.java)
 - [383.赎金信](src/leetcode/all/solution301_400/Solution383.java)
 - [354.俄罗斯套娃信封问题](src/leetcode/all/solution301_400/Solution354.java)
 
@@ -173,6 +177,8 @@
 - [百度2019笔试题-地外文明](src/other/Baidu1.java)
 - [百度2019笔试题-生日蛋糕（未完成）](src/other/Baidu2.java)
 - [百度2019笔试题-B序（未完成）](src/other/Baidu3.java)
+- [完美2019笔试题-诱惑值](src/other/Wanmei1.java)
+- [顺网科技2019笔试题-去除数组中重复元素](src/other/Shunwang.java)
 
 ### 其他练习
 
@@ -255,6 +261,27 @@ Parent parent=new Child();
 
 总结来看，神策的面试官基本上把简历上写的东西都问了，我写了多进程、多线程、同步、异步，所以简历上写的东西一定要全部过一遍
 
+**同花顺**
+
+技术复试：
+
+- socket长连接、心跳保持
+- jni
+- 代码混淆
+- Android调试工具
+- JVM和DVM的区别
+- eclipse和Android Studio的区别
+- 使用原生写的软件越来越少，你的看法？
+- 网络请求框架
+
+Hr面试：
+
+- 个人优缺点
+- 如何统计西湖中有多少条鱼
+- 最值得骄傲的一件事
+- 说下对我们公司的了解
+- 你是以什么样的标准来选择工作的？优先考虑哪方面？
+- 你还有什么想问的吗？
 
 
 
